@@ -1,6 +1,6 @@
 import { useState } from "react"
 import Navbar from "./components/Navbar";
-import Cards from "./components/cards";
+import Cards from "./components/Cards";
 import Hero from "./components/hero";
 import Footer from "./components/footer";
 function App() {
